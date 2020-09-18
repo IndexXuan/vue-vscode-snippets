@@ -30,9 +30,10 @@
     "Snippets"
   ],
   "contributes": {
-    "snippets": [{
+    "snippets": [
+      {
         "language": "vue",
-        "path": "./snippets/vue.json"
+        "path": "./snippets/vca.json"
       },
       {
         "language": "jade",

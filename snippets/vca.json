@@ -1,0 +1,25 @@
+{
+  "Vue Single File Component": {
+    "prefix": "sfc",
+    "body": [
+      "<template>",
+      "\t<div>",
+      "",
+      "\t</div>",
+      "</template>",
+      "",
+      "<script>",
+      "import { defineComponent } from '@vue/composition-api'",
+      "\texport default defineComponent({",
+      "\t\tname: '',",
+      "\t\t${0}",
+      "\t})",
+      "</script>",
+      "",
+      "<style lang=\"scss\" scoped>",
+      "",
+      "</style>"
+    ],
+    "description": "Base for Vue SFC File"
+  }
+}
