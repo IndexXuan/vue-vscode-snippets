@@ -14,7 +14,7 @@
       "export default defineComponent({",
       "\tname: '${0}',",
       "\tsetup() {",
-      "\tconst xxxRef = ref()",
+      "\t\tconst xxxRef = ref()",
       "",
       "\t\treturn {",
       "\t\t\txxxRef,",
