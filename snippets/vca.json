@@ -9,7 +9,7 @@
       "</template>",
       "",
       "<script>",
-      "import { defineComponent } from '@vue/composition-api'",
+      "import { defineComponent, ref } from '@vue/composition-api'",
       "",
       "export default defineComponent({",
       "\tname: '${0}',",
@@ -29,6 +29,6 @@
       "}",
       "</style>"
     ],
-    "description": "Base for Vue SFC File"
+    "description": "Vue SFC File"
   }
 }
